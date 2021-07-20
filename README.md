@@ -1,2 +1,2 @@
-# IcePicks
-This repository houses the scripts used to process terminus picks for the IcePicks dataset. 
+# TermPicks
+This repository houses the scripts used to 1) generate authorship textfile and 2) retreat calculations.
